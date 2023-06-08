@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay-jay23&label=Profile%20views&color=0e75b6&style=flat" alt="jay-jay23" /> </p>
 
-- 🌱 I’m currently learning **Pentration Testing**
+- 🌱 I’m currently learning **Pratical Ethical Hacking, Python for Data Science**
 
-- 💬 Ask me about **Microsoft Sentinel, Microsoft 365 Defender**
+- 💬 Ask me about **Microsoft Sentinel, Microsoft 365 Defender,CyberSecurity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
