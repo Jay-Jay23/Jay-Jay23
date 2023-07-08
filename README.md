@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Jojo Skosana</h1>
-<h3 align="center">A passionate for CyberSecurity and backend development</h3>
+<h3 align="center">A passionate for CyberSecurity and Full Stack development</h3>
 <img align="right" alt="Coding" width="400" src="https://cyberlabsservices.com/wp-content/uploads/2021/08/1-11.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay-jay23&label=Profile%20views&color=0e75b6&style=flat" alt="jay-jay23" /> </p>
 
-- 🌱 I’m currently learning **Pratical Ethical Hacking, Python for Data Science**
+- 🌱 I’m currently learning **Pratical Ethical Hacking, Python and Node js**
 
 - 💬 Ask me about **Microsoft Sentinel, Microsoft 365 Defender,CyberSecurity**
 
