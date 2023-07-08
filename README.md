@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Pratical Ethical Hacking, Python and Node js**
 
-- 💬 Ask me about **Microsoft Sentinel, Microsoft 365 Defender,CyberSecurity**
+- 💬 Ask me about **Microsoft Sentinel, Microsoft 365 Defender, CyberSecurity, HTML, CSS, Javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
