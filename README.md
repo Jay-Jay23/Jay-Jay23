@@ -1,4 +1,32 @@
+<h1>Hi, I'm Jojo! <br/><a href="https://github.com/Jay-Jay23">Programmer</a>, <a href="https://www.linkedin.com/in/jojo-skosana-99645a137/">Cybersecurity analyst</a></h1>
 
+- 🌱 I’m currently learning **[Odin project](https://www.theodinproject.com/), [TCM Practical Ethical Hacking](https://academy.tcm-sec.com/courses/enrolled/1152300)**
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Responsiv HTML, CSS and Javascript</b>
+  - [Web Portfolio](https://github.com/Jay-Jay23/Developer-Portifolio)
+  - [Animated login form](https://github.com/Jay-Jay23/Animated-login-form) 
+- <b>JavaFx</b>
+  - [Banking Application](https://github.com/Jay-Jay23/Javafx-Banking-Application)
+- <b>Python</b>
+  - [Note taker website ](https://github.com/Jay-Jay23/Python-Website)
+  - [Python 100 days of code ](https://github.com/Jay-Jay23/Python-100-Days-Of-Code)
+
+<h2>📺 CyberSecurity Projects</h2>
+
+- <b>Vulnerability Management</b>
+  - [Qualys Vulnerability Management Lab](https://github.com/Jay-Jay23/Qualys-Vulnerability-Management-Lab)
+  - [OWASP Top 10](https://github.com/Jay-Jay23/OWASP_Top_10)
+  - [Detection & Monitoring](https://github.com/Jay-Jay23/Cybersecurity-Homelab-for-Detection-Monitoring)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Jay-jay23 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Jay-jay23 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[twitter]: https://twitter.com/Cyb3rn3rd1
+[linkedin]: https://www.linkedin.com/in/jojo-skosana-99645a137
 
 <!--
 **Jay-Jay23/Jay-Jay23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,28 +43,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Jojo Skosana</h1>
-<h3 align="center">A passionate for CyberSecurity and Full Stack development</h3>
-<img align="right" alt="Coding" width="400" src="https://cyberlabsservices.com/wp-content/uploads/2021/08/1-11.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jay-jay23&label=Profile%20views&color=0e75b6&style=flat" alt="jay-jay23" /> </p>
-
-- 🌱 I’m currently learning **Pratical Ethical Hacking, Python and Node js**
-
-- 💬 Ask me about **Microsoft Sentinel, Microsoft 365 Defender, CyberSecurity, HTML, CSS, Javascript**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jojo-skosana-99645a137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jojo-skosana-99645a137" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay-jay23&show_icons=true&locale=en&layout=compact" alt="jay-jay23" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jay-jay23&show_icons=true&locale=en" alt="jay-jay23" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-jay23&" alt="jay-jay23" /></p>
-
-
+ 
