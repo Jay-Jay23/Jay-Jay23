@@ -11,6 +11,7 @@
 - <b>Python</b>
   - [Note taker website ](https://github.com/Jay-Jay23/Python-Website)
   - [Python 100 days of code ](https://github.com/Jay-Jay23/Python-100-Days-Of-Code)
+  - [Todo App in Django ](https://github.com/Jay-Jay23/django-todo-app)
 
 <h2>📺 CyberSecurity Projects</h2>
 
